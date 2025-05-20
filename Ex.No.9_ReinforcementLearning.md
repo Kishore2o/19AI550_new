@@ -1,6 +1,7 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 212222240110
+### DATE:  
+### NAME : Kishore S
+### REGISTER NUMBER : 212222240050
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
